@@ -11,3 +11,4 @@ BAŞLA
   DEGİLSE YAZ "Durum Normal"
 DUR 
 ## Kaynakça : Ders Kitabı
+<img width="501" height="318" alt="{5958430E-2462-4959-B4A1-805DE5F32249}" src="https://github.com/user-attachments/assets/9504651d-494a-429b-a1f1-e5134f327af8" />
