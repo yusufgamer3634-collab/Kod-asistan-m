@@ -9,4 +9,5 @@ BAŞLA
   Oku (Deger)
   EGER deger>=50  ise YAZ "Kritik Eşik
   DEGİLSE YAZ "Durum Normal"
-DUR
+DUR 
+## Kaynakça : Ders Kitabı
